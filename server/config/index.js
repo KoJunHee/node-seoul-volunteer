@@ -9,14 +9,7 @@ var config = {
         }
     },
     database: {
-        mongo:
-        {
-            host: 'ds151382.mlab.com',
-            username: 'junhee.ko',
-            password: 'qq1212qq1212!',
-            port: '51382',
-            database: 'seoul-volunteer'
-        }
+       
     }
 };
 
